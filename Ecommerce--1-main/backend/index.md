@@ -6,9 +6,9 @@ npm i mongoose;
 
 ###### db/config.js
 
-```javascript -
+```javascript (add url of mongoose)-
 import mongoose from "mongoose";
-connection - mongoose.connect("mongodb://localhost:27017/e-commerce");
+connection - mongoose.connect("")
 ```
 
 #### Registration -Schema and API
