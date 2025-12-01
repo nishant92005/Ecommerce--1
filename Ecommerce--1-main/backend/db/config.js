@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 // Local MongoDB Connection (Requested: localhost:27017 with DB name ecom)
-const localConnection = "mongodb://localhost:27017/ecom";
+const localConnection = "";
 
 // MongoDB Atlas Connection (agar cloud use kar rahe hain)
 // Uncomment karke apna connection string paste karein:
