@@ -94,7 +94,7 @@ mongosh
 
 # Agar connection ho gaya, to ye dikhega:
 # Current Mongosh Log ID: ...
-# Connecting to: mongodb://127.0.0.1:27017
+# Connecting to: mongodb://
 ```
 
 ### Test 2: Node.js Se (Our Project)
@@ -221,4 +221,5 @@ mongoose.connect(connectionString)
 🚀 Server running on http://localhost:1709
 
 Agar ye messages dikh rahe hain, to sab theek hai! 🎉
+
 
